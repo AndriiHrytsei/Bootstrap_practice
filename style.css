@@ -67,5 +67,5 @@
 .bg_button:focus{
     background-color: #FA4A0C;
     border: 1px solid #FA4A0C;
-
+    box-shadow: 0px 10px 30px rgba(183, 50, 39, 0.2);
 }

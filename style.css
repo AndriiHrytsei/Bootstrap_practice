@@ -48,6 +48,11 @@
     color: #F7F7F7;
 }
 
+.bg-button-box{
+    position: relative;
+    top: 78px
+}
+
 .bg_button{
     font-family: 'Montserrat';
     font-style: normal;
@@ -69,3 +74,4 @@
     border: 1px solid #FA4A0C;
     box-shadow: 0px 10px 30px rgba(183, 50, 39, 0.2);
 }
+

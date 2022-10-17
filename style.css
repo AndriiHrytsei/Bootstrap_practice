@@ -1,0 +1,71 @@
+*{
+    box-sizing: border-box;
+}
+.nav li a{
+    color: #000;
+}
+.nav li a:hover{
+    color: #FA4A0C;
+}
+.nav li a:focus{
+    color: #FA4A0C;
+}
+.main-bg{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    background-image: url(./bgimg.png);
+    height: 616px;
+}
+.main_text1{
+    font-family: 'Montserrat';
+    font-style: normal;
+    font-weight: 700;
+    font-size: 24px;
+    line-height: 36px;
+    text-align: center;
+    letter-spacing: 0.1px;
+    color: #F7F7F7;
+}
+.main_text2{
+    font-family: 'Poppins';
+    font-style: normal;
+    font-weight: 700px;
+    font-size: 58px;
+    line-height: 80px;
+    text-align: center;
+    letter-spacing: 0.2px;
+    color: #FFFFFF;
+}
+
+.main_text3{
+    font-family: 'Montserrat';
+    font-weight: 500px;
+    font-size: 24px;
+    line-height: 38px;
+    text-align: center;
+    letter-spacing: 0.2px;
+    color: #F7F7F7;
+}
+
+.bg_button{
+    font-family: 'Montserrat';
+    font-style: normal;
+    font-weight: 700;
+    font-size: 24px;
+    line-height: 36px;
+    letter-spacing: 0.1px;
+    box-sizing: border-box;
+    width: 236px;
+    height: 68px; 
+    border: 1px solid #FFFFFF; 
+    background-color: transparent; 
+    color: #FFFFFF;
+    border-radius: 30px
+}
+
+.bg_button:focus{
+    background-color: #FA4A0C;
+    border: 1px solid #FA4A0C;
+
+}
